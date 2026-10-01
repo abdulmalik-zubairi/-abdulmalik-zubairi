@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+store.db
+test_store.db
+app.log
